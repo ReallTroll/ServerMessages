@@ -1,0 +1,2 @@
+# ServerMessages
+Server Message: Welcome
